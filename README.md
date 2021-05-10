@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+艹, 居然没什么好说的 😂
+
 <!--
 **SmacUL/SmacUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
